@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0200-number-of-islands) |
@@ -12,10 +13,12 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0084-largest-rectangle-in-histogram) |
 ## Backtracking
 |  |
@@ -50,6 +53,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -59,6 +63,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 ## Breadth-First Search
 |  |
 | ------- |
