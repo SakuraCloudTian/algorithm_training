@@ -9,6 +9,7 @@
 | [0078-subsets](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
@@ -54,6 +55,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
