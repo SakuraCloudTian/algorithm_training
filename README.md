@@ -58,11 +58,13 @@
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0283-move-zeroes) |
+| [0768-partition-labels](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0768-partition-labels) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
+| [0768-partition-labels](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0768-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0347-top-k-frequent-elements) |
+| [0768-partition-labels](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0768-partition-labels) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,4 +129,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
