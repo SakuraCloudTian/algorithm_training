@@ -18,6 +18,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -40,10 +41,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
@@ -53,6 +56,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +128,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0002-add-two-numbers) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
 | ------- |
