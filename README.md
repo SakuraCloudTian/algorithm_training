@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0200-number-of-islands) |
@@ -27,6 +28,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
