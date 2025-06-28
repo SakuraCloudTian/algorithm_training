@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0200-number-of-islands) |
@@ -72,6 +75,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
+| [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
 | [0768-partition-labels](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0768-partition-labels) |
 ## Dynamic Programming
 |  |
@@ -92,6 +96,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
