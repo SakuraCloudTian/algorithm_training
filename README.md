@@ -32,6 +32,7 @@
 | [0051-n-queens](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,12 +77,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0131-palindrome-partitioning) |
 | [0768-partition-labels](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0768-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
