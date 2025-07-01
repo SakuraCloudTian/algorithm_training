@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0024-swap-nodes-in-pairs) |
 ## Greedy
 |  |
 | ------- |
