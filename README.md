@@ -89,6 +89,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0322-coin-change) |
 ## Breadth-First Search
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0207-course-schedule) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
