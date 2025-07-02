@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
@@ -90,6 +91,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0322-coin-change) |
 ## Breadth-First Search
@@ -106,6 +108,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0200-number-of-islands) |
