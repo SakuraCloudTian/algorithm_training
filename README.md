@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0074-search-a-2d-matrix) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0131-palindrome-partitioning) |
 | [0768-partition-labels](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0768-partition-labels) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0347-top-k-frequent-elements) |
 | [0768-partition-labels](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0768-partition-labels) |
 ## Divide and Conquer
@@ -131,6 +134,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
