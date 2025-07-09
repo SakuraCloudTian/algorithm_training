@@ -26,6 +26,7 @@
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0394-decode-string](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0049-group-anagrams](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0131-palindrome-partitioning) |
+| [0394-decode-string](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0394-decode-string) |
 | [0768-partition-labels](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0768-partition-labels) |
 ## Dynamic Programming
 |  |
@@ -177,6 +179,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
