@@ -100,6 +100,7 @@
 | [0062-unique-paths](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0131-palindrome-partitioning) |
+| [0279-perfect-squares](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
@@ -107,6 +108,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0322-coin-change) |
 ## Union Find
 |  |
@@ -174,6 +176,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0279-perfect-squares) |
 ## Recursion
 |  |
 | ------- |
