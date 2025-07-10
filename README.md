@@ -88,6 +88,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0131-palindrome-partitioning) |
 | [0394-decode-string](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0394-decode-string) |
@@ -99,6 +100,7 @@
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0322-coin-change) |
