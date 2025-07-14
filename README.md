@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0347-top-k-frequent-elements) |
+| [1036-rotting-oranges](https://github.com/SakuraCloudTian/algorithm_training/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0207-course-schedule](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0322-coin-change) |
+| [1036-rotting-oranges](https://github.com/SakuraCloudTian/algorithm_training/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/SakuraCloudTian/algorithm_training/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
