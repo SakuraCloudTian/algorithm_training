@@ -141,6 +141,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0347-top-k-frequent-elements) |
 | [0768-partition-labels](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0768-partition-labels) |
 ## Divide and Conquer
@@ -187,6 +188,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
