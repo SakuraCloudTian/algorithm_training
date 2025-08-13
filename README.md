@@ -91,6 +91,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0768-partition-labels) |
 ## String
@@ -152,6 +153,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -159,6 +161,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -192,6 +195,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -224,4 +228,5 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
