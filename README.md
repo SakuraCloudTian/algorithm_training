@@ -16,6 +16,7 @@
 | [0079-word-search](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0152-maximum-product-subarray](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0215-kth-largest-element-in-an-array) |
@@ -114,6 +115,7 @@
 | [0064-minimum-path-sum](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SakuraCloudTian/algorithm_training/tree/master/0322-coin-change) |
 ## Breadth-First Search
